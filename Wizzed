@@ -249,4 +249,4 @@ async def on_ready():
             print(f"{Fore.RED}[  {Fore.GREEN}  -  {Fore.RED} ] {Fore.GREEN} Invalid Input {Fore.RED}:{Fore.WHITE} {option} ")
             time.sleep(3)
 
-bot.run(ODMxMTYzOTA4MzEwOTU4MDky.YHRPtg.oPbZ4w3MBcSLVUZUL2_MzNj-H5s)
+bot.run(bottoken)
